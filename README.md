@@ -8,3 +8,5 @@ This site showcases my projects, skills, and experiences.
 - Responsive design using HTML and CSS
 - Sections for About Me, Projects, Skills, and Contact
 - Clean and simple layout for better readability
+
+visit my portfolio at : https://himanshujayara45.github.io/himanshujayara_portfolio/
